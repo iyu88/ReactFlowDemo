@@ -1,0 +1,19 @@
+.SearchItemWrapper {
+  width: clamp(150px, 20em, 18vw);
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 10px;
+  border: 2px solid black;
+  background-color: rgb(255, 255, 255);
+}
+
+.SearchItemTitle {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.SearchItemDescription {
+  font-weight: bold;
+  font-size: 1rem;
+  color: lightslategray;
+}

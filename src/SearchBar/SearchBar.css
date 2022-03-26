@@ -1,0 +1,10 @@
+.SearchBarWrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 1em;
+}
+
+.SearchBarText {
+  width: clamp(150px, 24em, 18vw);
+  min-height: 3em;
+}

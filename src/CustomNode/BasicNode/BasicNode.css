@@ -1,0 +1,15 @@
+.BasicNodeWrapper {
+  min-width: 9em;
+  padding: 1em;
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+  border: 1px solid black;
+  border-radius: 5px;
+  background: rgb(255, 176, 251);
+  display: flex;
+  justify-content: center;
+}
+
+.BasicNodeTextTest {
+  font-size: 0.8rem;
+}
